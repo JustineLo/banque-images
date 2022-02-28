@@ -83,7 +83,7 @@ function App() {
     <main>
       <Fade top>
         <h2>BANQUE D'IMAGES</h2>
-        <h4>© 2022 - Crée avec ❤ par <a href="https://justinelo-portfolio.netlify.app">Justine Lo</a></h4>
+        <h4>© 2022 - Créé avec ❤ par <a href="https://justinelo-portfolio.netlify.app">Justine Lo</a></h4>
       </Fade>
       <section className='search'>
         <form className='search-form'>
